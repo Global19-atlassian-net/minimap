@@ -98,8 +98,8 @@ of a query may not be adjacent.
 [miniasm]: https://github.com/lh3/miniasm
 
 
-Disclaimer
-----------
+PacBio Disclaimer
+-----------------
 
 THIS WEBSITE AND CONTENT AND ALL SITE-RELATED SERVICES, INCLUDING ANY DATA, ARE
 PROVIDED "AS IS," WITH ALL FAULTS, WITH NO REPRESENTATIONS OR WARRANTIES OF ANY
